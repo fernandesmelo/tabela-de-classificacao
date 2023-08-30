@@ -4,13 +4,27 @@ Uma [Tabela de Classificação](https://fernandesmelo.github.io/tabela-de-classi
 
 ![Captura de tela 2023-08-30 163423](https://github.com/fernandesmelo/tabela-de-classificacao/assets/113717317/c5d9675b-579a-4056-bde0-e70a8d1a7bc9)
 
+O projeto "Tabela de Classificação" é uma aplicação que permite aos usuários registrar e visualizar uma tabela de classificação de jogadores com base em suas vitórias, empates e derrotas em algum tipo de competição. Suas funcionalidades principais são:
+
+✅ *Exibição da Tabela*: A aplicação exibe uma tabela com informações dos jogadores, incluindo seus nomes, número de vitórias, empates, derrotas e pontos.
+
+✅ *Registro de Dados dos Jogadores*: Os dados de cada jogador, como nome, vitórias, empates e derrotas, podem ser registrados na aplicação.
+
+✅ *Cálculo dos Pontos*: A aplicação calcula os pontos de cada jogador com base em uma fórmula específica, normalmente somando três vezes o número de vitórias mais o número de empates.
+
+✅ *Atualização Automática da Tabela*: Após o registro dos dados ou a atualização dos pontos de um jogador, a tabela é atualizada automaticamente para refletir as mudanças.
+
+✅ *Botões de Ação*: Para cada jogador na tabela, são fornecidos botões que permitem adicionar vitórias, empates ou derrotas, atualizando assim os dados e pontos.
+
+Essas funcionalidades tornam o projeto útil para rastrear e visualizar o desempenho dos jogadores em uma competição e ajudam a manter um registro organizado da classificação ao longo do tempo.
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
 
 ### 📋 Pré-requisitos
 
-Você precisa ter instalado um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos no seu sistema operacional.
+Você precisa ter instalado no seu sistema operacional um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos.
 
 ### 🔧 Instalação
 
