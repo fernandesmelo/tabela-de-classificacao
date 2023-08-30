@@ -1,6 +1,6 @@
 # Tabela de Classificação
 
-Uma [Tabela de Classificação](https://fernandesmelo.github.io/conversor-de-moedas/) para acompanhar o desempenho de jogadores. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
+Uma [Tabela de Classificação](https://fernandesmelo.github.io/tabela-de-classificacao/) para acompanhar o desempenho de jogadores. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
 
 ![Captura de tela 2023-08-30 163423](https://github.com/fernandesmelo/tabela-de-classificacao/assets/113717317/c5d9675b-579a-4056-bde0-e70a8d1a7bc9)
 
